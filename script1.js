@@ -1,4 +1,4 @@
-let age = 20; // You can change this value to test different outcomes
+let age = 20; 
 
 if (typeof age !== 'number' || isNaN(age)) {
   console.log("The specified age is invalid!");
