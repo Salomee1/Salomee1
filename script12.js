@@ -20,7 +20,7 @@ switch (true) {
     basePrice = 15; 
 }
 
-/
+
 switch (movieType) {
   case "3d":
     basePrice += 5;
